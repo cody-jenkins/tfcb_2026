@@ -1,7 +1,7 @@
-# Homework 1: Using a GitHub repository for molecular biology research--Cody Jenkins
+# Homework 1: Cody Jenkins
+Using a GitHub repository for molecular biology research
 
 - **Due October 15, 2026, at 1 PM Pacific. Total: 100 points.**
-- Work through the five problems in order. Each problem is worth 20 points, and each numbered step inside a problem carries its own points.
 
 ## Chosen Experiment -- Determining Percentage of CD24 positive cells after a CRISPR knockout
 
